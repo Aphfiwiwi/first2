@@ -32,7 +32,7 @@ fun main() {
     q *=3
     println(q)
 
-    //logical operators(or-||, not-!! and-&&)
+    //logical operators(or-||, not-! and-&&)
     var t = 80
     println(t > 79 &&  t < 99)
     println(!(t > 79 &&  t < 99))
